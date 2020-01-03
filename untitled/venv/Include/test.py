@@ -20,11 +20,11 @@ headers = {
 # user_url ='https://m.weibo.cn/api/container/getIndex?containerid=10080818b3ed999cd7b9b893ddf2ee3414346f_-_main&luicode=10000011&lfid=100103type%3D1%26q%3D%E6%A0%A1%E8%8D%89'
 
 #user_url = 'https://m.weibo.cn/api/container/getIndex?type=uid&value=2914737397&containerid=1076032914737397'
-user_url='https://m.weibo.cn/api/container/getIndex?type=uid&value=2607803303&containerid=1076032607803303'
-
+#user_url='https://m.weibo.cn/api/container/getIndex?type=uid&value=2607803303&containerid=1076032607803303'
+user_url='https://m.weibo.cn/api/container/getIndex?type=uid&value=1353112775&containerid=1076031353112775'
 tmp_folder_name = 'WeiboData_'
 tmp_folder_time = '2019_'
-user_name = '章'
+user_name = '章子枫'
 
 txt_file_name = '_Weibo_DataRecords.txt'
 
